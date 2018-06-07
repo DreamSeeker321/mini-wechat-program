@@ -1,0 +1,13 @@
+{
+  "pages":[
+    "pages/position/position",
+    "pages/goods/goods",
+    "pages/landings/landings"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "绝味鸭脖测试",
+    "navigationBarTextStyle":"black"
+  }
+}
